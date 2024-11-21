@@ -115,7 +115,7 @@ i.fa-solid.fa-quote-left {
   width: 1px;
   position: absolute;
   overflow: hidden;
-  clip-path: rect(0 0 0 0);
+  clip-path: inset(0);
 }
 
 /* Mobile screen styling */
